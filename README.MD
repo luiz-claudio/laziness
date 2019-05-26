@@ -24,9 +24,8 @@ PACOTE DESENVOLVIDO PARA ACELELAR O DESENVOLVIMENTO DE SISTEMAS COM LARAVEL E VU
     
 4. Rodar o npm:
 
-    npm install
-    
-    npm run dev
+    * npm install
+    * npm run dev
 
 
 
