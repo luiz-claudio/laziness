@@ -1,0 +1,18 @@
+{
+    "name": "lsiqueira/laziness",
+    "description": "Pacote com componentes vue para agilizar o desenvolvimento",
+    "license": "lsiqueira",
+    "authors": [
+        {
+            "name": "Luiz Claudio siqueira",
+            "email": "luizclaudiosiqueira2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lsiqueira\\laziness\\": "src/"
+        }
+    }
+
+}
