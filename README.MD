@@ -1,3 +1,7 @@
+##DESCRIÇÃO
+
+PACOTE DESENVOLVIDO PARA ACELELAR O DESENVOLVIMENTO DE SISTEMAS COM LARAVEL E VUE.
+
 ## COMPONENTES DISPONÍVEIS
     * Modal
     * Modal Link
@@ -14,7 +18,8 @@
         lsiqueira\laziness\LazinessServiceProvider::class,
     ]
 
-3. Publicar os componentes VUE 
+3. Publicar os componentes VUE:
+
     php artisan vendor:
     
 4. Rodar o npm:
