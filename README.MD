@@ -23,7 +23,9 @@ PACOTE DESENVOLVIDO PARA ACELELAR O DESENVOLVIMENTO DE SISTEMAS COM LARAVEL E VU
     php artisan vendor:
     
 4. Rodar o npm:
+
     npm install
+    
     npm run dev
 
 
