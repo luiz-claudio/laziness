@@ -11,7 +11,8 @@
 3. Publicar os componentes VUE 
 
     php artisan vendor:
-    
+
+g    
 4. Rodar o npm:
     npm install
     npm run dev
