@@ -1,7 +1,7 @@
 {
     "name": "lsiqueira/laziness",
     "description": "Pacote com componentes vue para agilizar o desenvolvimento",
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Luiz Claudio siqueira",
