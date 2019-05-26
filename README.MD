@@ -1,10 +1,10 @@
-## COMPONENTES DISPONIVEIS
+## COMPONENTES DISPONÍVEIS
     * Modal
     * Modal Link
     * Datatable(CRUD completo)
 
 
-## INSTALANDO
+## INTALAÇÃO
 
 1. composer require lsiqueira/laziness
 
